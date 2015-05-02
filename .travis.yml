@@ -1,0 +1,15 @@
+language: python
+python: 
+	- "2.7"
+
+# install mkdocs via pip
+pip install mkdocs
+
+
+# build mkdocs
+
+
+
+# run grunt and zip
+
+# upload to domain via FTP
