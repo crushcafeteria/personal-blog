@@ -1,3 +1,8 @@
-site_name: Personal Blog
+site_name: '<img src="http://blackpay.co.ke/assets/img/me.jpg" class="img img-thumbnail img-responsive author-image">'
 
+# Theme Information
+themedir: 'theme'
 theme: readthedocs
+extra_css: ['style.css']
+
+
